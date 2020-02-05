@@ -1,0 +1,12 @@
+{
+	"name": "create-icons",
+	"version": "1.0.0",
+	"author": {
+		"name": "Adem Simsek",
+		"email": "adem.simsek@atos.net"
+	},
+	"description": "Small Script to create sprites from folders of images",
+	"dependencies": {
+		"sharp": "0.24.0"
+	}
+}

@@ -1,5 +1,17 @@
 # Microsoft Visio Stencils
 
+Tool to extract shaped from Visio Stencils: <br>
+https://gallery.technet.microsoft.com/Visio-2013-Shape-Exporter-15bdaeec
+
+### Stencils used to extract the shapeds
+
+- Office Visio Stencil: https://www.microsoft.com/en-us/download/details.aspx?id=35772
+- Microsoft Integration Stencils Pack: https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0
+- Microsoft Azure Cloud and AI Symbol / Icon Set https://www.microsoft.com/en-us/download/details.aspx?id=41937
+- Skype and Teams, Visio Stencil https://gallery.technet.microsoft.com/Skype-and-Teams-Visio-27979e95
+- System Center v.Next Visio Stencils https://gallery.technet.microsoft.com/System-Center-vNext-Visio-affea756
+
+
 ## Folder angularx
 
 ![](sprites/angularx.png)
@@ -87,3 +99,15 @@
 ## Folder office_365_products_stencilx
 
 ![](sprites/office_365_products_stencilx.png)
+
+## Folder Services
+
+![](sprites/Services.png)
+
+## Folder sfbo_teams_stencil_by_ucblogmx_v2.0x
+
+![](sprites/sfbo_teams_stencil_by_ucblogmx_v2.0x.png)
+
+## Folder system_center_v.next_visio_stencils_v0.95x
+
+![](sprites/system_center_v.next_visio_stencils_v0.95x.png)
